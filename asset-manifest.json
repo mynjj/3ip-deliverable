@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26fb9137.chunk.css",
+    "main.js": "/static/js/main.ca09a176.chunk.js",
+    "main.js.map": "/static/js/main.ca09a176.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0eebcf8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0eebcf8.js.map",
+    "static/js/2.d4d69815.chunk.js": "/static/js/2.d4d69815.chunk.js",
+    "static/js/2.d4d69815.chunk.js.map": "/static/js/2.d4d69815.chunk.js.map",
+    "static/js/3.46387518.chunk.js": "/static/js/3.46387518.chunk.js",
+    "static/js/3.46387518.chunk.js.map": "/static/js/3.46387518.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.26fb9137.chunk.css.map": "/static/css/main.26fb9137.chunk.css.map",
+    "static/js/2.d4d69815.chunk.js.LICENSE.txt": "/static/js/2.d4d69815.chunk.js.LICENSE.txt",
+    "static/media/marker-atlas.0c6c4bd9.png": "/static/media/marker-atlas.0c6c4bd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0eebcf8.js",
+    "static/js/2.d4d69815.chunk.js",
+    "static/css/main.26fb9137.chunk.css",
+    "static/js/main.ca09a176.chunk.js"
+  ]
+}
