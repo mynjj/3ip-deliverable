@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+//import './index.css';
+import './styles.scss';
+//import App from './App';
+import VuffeliApp from './pages/VuffeliApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <VuffeliApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
