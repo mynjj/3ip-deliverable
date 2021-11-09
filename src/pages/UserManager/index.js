@@ -1,7 +1,11 @@
 import React from 'react';
 
 const UserManager = ({user, currentUser, onUnselectUser}) => {
-    const {name, email, products} = user;
+    const {name, email, products, description} = user;
+    const sendMessage = e => {
+	window.location = `mailto: ${email}`;
+	e.preventDefault();
+    };
     return (
 	<div className='UserManager'>
 	    <div className='header'>
@@ -11,16 +15,16 @@ const UserManager = ({user, currentUser, onUnselectUser}) => {
 	    <hr/>
 	    <div className='user-card-content'>
 		<div>
-		    <button className='pill-btn'>Send a message</button>
+		    <button onClick={sendMessage} className='pill-btn'>Email ({email})</button>
 		</div>
 		<h2 className='bar-label'>Description:</h2>
-		<p>Hi! My doggo is Timmy. We like to run and cycle :P</p>
+		<p>{description}</p>
 		{products.length===0?<h2 className='bar-label'>{name} has no products registered</h2>:(
 		    <>
 			<h2 className='bar-label'>Products:</h2>
 			<ul>
-			    {products.map(({brand, type}, k)=>(
-				<li key={k}>{type} - {brand}</li>
+			    {products.map(({brand, type, price}, k)=>(
+				<li key={k}>{price===0?'Free':`${price.toFixed(2)}kr.`}: {type} - {brand}</li>
 			    ))}
 			</ul>
 		    </>
