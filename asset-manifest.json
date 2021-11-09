@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/3ip-deliverable/static/css/main.26fb9137.chunk.css",
-    "main.js": "/3ip-deliverable/static/js/main.ca09a176.chunk.js",
-    "main.js.map": "/3ip-deliverable/static/js/main.ca09a176.chunk.js.map",
-    "runtime-main.js": "/3ip-deliverable/static/js/runtime-main.b94d6890.js",
-    "runtime-main.js.map": "/3ip-deliverable/static/js/runtime-main.b94d6890.js.map",
-    "static/js/2.9bfcec08.chunk.js": "/3ip-deliverable/static/js/2.9bfcec08.chunk.js",
-    "static/js/2.9bfcec08.chunk.js.map": "/3ip-deliverable/static/js/2.9bfcec08.chunk.js.map",
-    "static/js/3.46387518.chunk.js": "/3ip-deliverable/static/js/3.46387518.chunk.js",
-    "static/js/3.46387518.chunk.js.map": "/3ip-deliverable/static/js/3.46387518.chunk.js.map",
-    "index.html": "/3ip-deliverable/index.html",
-    "static/css/main.26fb9137.chunk.css.map": "/3ip-deliverable/static/css/main.26fb9137.chunk.css.map",
-    "static/js/2.9bfcec08.chunk.js.LICENSE.txt": "/3ip-deliverable/static/js/2.9bfcec08.chunk.js.LICENSE.txt",
-    "static/media/marker-atlas.0c6c4bd9.png": "/3ip-deliverable/static/media/marker-atlas.0c6c4bd9.png"
+    "main.css": "/static/css/main.26fb9137.chunk.css",
+    "main.js": "/static/js/main.bceb3068.chunk.js",
+    "main.js.map": "/static/js/main.bceb3068.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.454b369d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.454b369d.js.map",
+    "static/js/2.5a4f4319.chunk.js": "/static/js/2.5a4f4319.chunk.js",
+    "static/js/2.5a4f4319.chunk.js.map": "/static/js/2.5a4f4319.chunk.js.map",
+    "static/js/3.c8fbf26c.chunk.js": "/static/js/3.c8fbf26c.chunk.js",
+    "static/js/3.c8fbf26c.chunk.js.map": "/static/js/3.c8fbf26c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.26fb9137.chunk.css.map": "/static/css/main.26fb9137.chunk.css.map",
+    "static/js/2.5a4f4319.chunk.js.LICENSE.txt": "/static/js/2.5a4f4319.chunk.js.LICENSE.txt",
+    "static/media/marker-atlas.0c6c4bd9.png": "/static/media/marker-atlas.0c6c4bd9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b94d6890.js",
-    "static/js/2.9bfcec08.chunk.js",
+    "static/js/runtime-main.454b369d.js",
+    "static/js/2.5a4f4319.chunk.js",
     "static/css/main.26fb9137.chunk.css",
-    "static/js/main.ca09a176.chunk.js"
+    "static/js/main.bceb3068.chunk.js"
   ]
 }
